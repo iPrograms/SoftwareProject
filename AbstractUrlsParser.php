@@ -63,5 +63,4 @@ abstract class AbstractUrlsParser implements Parser
         }
     }
 }
-
 ?>
